@@ -2,6 +2,8 @@
 
 SDK API-3.0 PHP
 
+Long-term fork para continuar utilizando o SDK sem depender da manutenção de pacotes externos.
+
 ## Principais recursos
 
 * [x] Pagamentos por cartão de crédito.
